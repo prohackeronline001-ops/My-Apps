@@ -1,0 +1,6 @@
+{
+  "name": "Simple Reminder",
+  "description": "A lightweight, feature-rich offline reminder app with modern Material 3 styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
