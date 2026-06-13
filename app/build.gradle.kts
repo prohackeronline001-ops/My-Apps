@@ -11,7 +11,7 @@ android {
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.simplereminder.fzkqwp"
+    applicationId = "com.reminder.app"
     minSdk = 26
     targetSdk = 35
     versionCode = 1
